@@ -1,0 +1,11 @@
+supplier_name,total_pos,avg_actual_lead_time,avg_promised_lead_time,late_pos,on_time_delivery_pct,avg_delay_days
+Supplier 2,24,19.21,22.58,1,95.83,-3.37
+Supplier 3,36,17.78,19.89,3,91.67,-2.11
+Supplier 1,38,19.34,22.03,4,89.47,-2.69
+Supplier 4,31,21.87,23.03,9,70.97,-1.16
+Supplier 5,26,22.69,23.35,9,65.38,-0.66
+Supplier 6,26,23.88,22.73,16,38.46,1.15
+Supplier 7,33,20.94,19.45,23,30.3,1.49
+Supplier 8,33,25.0,21.97,29,12.12,3.03
+Supplier 9,31,25.94,21.23,28,9.68,4.71
+Supplier 10,22,27.64,21.86,22,0.0,5.78
